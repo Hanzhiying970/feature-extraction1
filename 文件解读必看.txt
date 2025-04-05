@@ -1,0 +1,10 @@
+1.经验模态分解EMD代码示例和可视化.ipynb
+  为验模态分解EMD的代码 和  轴承数据分解可视化，包含信号重构代码
+
+2.制作数据集.ipynb 文件
+  生成train_set、val_set、test_set 数据集 ，按照顺序运行 .制作数据集.ipynb 文件
+  包含轴承数据10分类的EMD与处理代码
+
+3.EMD-CNN-LSTM故障分类.ipynb 文件
+  按顺序运行，可加载train_dataset、val_dataset、test_dataset数据，
+  进行数据的训练
